@@ -9,6 +9,6 @@ The instances given represent cases where the tips and number of occupied square
 
 The tips and number of occupied squares in lines and columns are in the txt files. In order to run the code, the following line should be used in the prompt:
 
-'''
+```
 python3 bimaru.py < <instance_file>
-'''
+```
